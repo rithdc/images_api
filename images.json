@@ -6,7 +6,7 @@
       "email": "john.doe@example.com",
       "is_verified": true,
       "interests": ["reading", "traveling", "coding"],
-      "profile_image": " "
+      "profile_image": "https://github.com/rithdc/images_api/blob/main/khmer_alphabet.png "
     },
     {
       "username": "jane_smith",
