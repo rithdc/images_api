@@ -1,18 +1,22 @@
  [
     {
-      "username": "khmer",
+     "id": "1",
+     "username": "khmer",
       "profile_image": "https://github.com/rithdc/images_api/blob/main/khmer_alphabet.png "
     },
     {
-      "username": "jane_smith",
+     "id": "2", 
+     "username": "jane_smith",
       "profile_image": "jane_smith_profile.png"
     },
     {
-      "username": "sam_wilson",
+     "id": "3", 
+     "username": "sam_wilson",
       "profile_image": "sam_wilson_profile.jpg"
     }
    {
-      "username": "sam_wilson",
-      "profile_image": "sam_wilson_profile.jpg"
+    "id": "4",  
+    "username": "sam_wilson",
+    "profile_image": "sam_wilson_profile.jpg"
     }
   ]
