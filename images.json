@@ -1,29 +1,18 @@
  [
     {
-      "username": "john_doe",
-      "full_name": "John Doe",
-      "age": 28,
-      "email": "john.doe@example.com",
-      "is_verified": true,
-      "interests": ["reading", "traveling", "coding"],
+      "username": "khmer",
       "profile_image": "https://github.com/rithdc/images_api/blob/main/khmer_alphabet.png "
     },
     {
       "username": "jane_smith",
-      "full_name": "Jane Smith",
-      "age": 35,
-      "email": "jane.smith@example.com",
-      "is_verified": false,
-      "interests": ["photography", "gardening", "music"],
       "profile_image": "jane_smith_profile.png"
     },
     {
       "username": "sam_wilson",
-      "full_name": "Sam Wilson",
-      "age": 22,
-      "email": "sam.wilson@example.com",
-      "is_verified": true,
-      "interests": ["sports", "movies", "cooking"],
+      "profile_image": "sam_wilson_profile.jpg"
+    }
+   {
+      "username": "sam_wilson",
       "profile_image": "sam_wilson_profile.jpg"
     }
   ]
